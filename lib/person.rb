@@ -1,3 +1,5 @@
 class Person
-  def initialize 
-end
+  def initialize (name)
+    
+    
+    end
