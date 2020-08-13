@@ -1,6 +1,3 @@
 class Person
-  def person(name)
-    name = name
-  end
-  d
+  def initialize 
 end
